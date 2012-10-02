@@ -1,0 +1,38 @@
+Page(s)
+Calendar
+--------
+
+
+Service
+-------
+Default id = 1
+
+
+Service Category
+-------
+Default id = 1
+
+
+Time Off
+--------
+
+
+Manage Appointments
+-------------------
+
+
+Settings
+------------------	=	------------
+calendar_slot_time	=	30 (Minute)
+day_start_time		=	10:00 AM
+day_end_time		=	5:00 PM
+calendar_view		=	month
+calendar_start_day	=	1 monday
+
+
+Notification Settings	=	Default
+---------------------	=	--------------
+emailstatus			=	on
+emailtype			=	wpmail
+emaildetails		=	getadmin email
+
