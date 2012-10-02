@@ -56,12 +56,7 @@ This section describes how to install the plugin and get it working.
 
 == Changelog ==
 
-= 2.0 =
-1. 
-2. 
-3. 
-4. 
-5. 
+= 2.0 = 
 
 = 1.1 =
 1. Fixed The Memory Exhausted Erorr
